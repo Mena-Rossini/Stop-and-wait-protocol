@@ -67,6 +67,10 @@ while True:
  s.send("Acknowledgement Recived".encode())
 
 OUTPUT:
+CLIENT:
+![Screenshot from 2023-05-22 08-39-25](https://github.com/Harsayazheni/Stop-and-wait-protocol/assets/118708467/75e26585-a229-4bd1-b8e3-5bb737ed08a5)
+
+SERVER:
 ![WhatsApp Image 2023-05-22 at 8 12 00 AM](https://github.com/Harsayazheni/Stop-and-wait-protocol/assets/118708467/2b1410b9-5ad0-4fad-ae6a-4ecd23e3e693)
 
 RESULT:
