@@ -34,18 +34,32 @@ while True:
  c.send(i.encode())
  
  ack=c.recv(1024).decode()
+ 
  if ack:
+ 
  print(ack)
+ 
  continue
- else:
+
+else:
+ 
  c.close()
- break
+
+break
+
 SERVER:
+
 import socket
+
 s=socket.socket()
+
 s.connect(('localhost',8000))
+
 while True:
+ 
  print(s.recv(1024).decode())
+ 
  s.send("Acknowledgement Recived".encode())
+
 OUTPUT:
 ![WhatsApp Image 2023-05-22 at 8 12 00 AM](https://github.com/Harsayazheni/Stop-and-wait-protocol/assets/118708467/2b1410b9-5ad0-4fad-ae6a-4ecd23e3e693)
