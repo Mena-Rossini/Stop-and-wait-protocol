@@ -1,7 +1,11 @@
 # Stop-and-wait-protocol
+
 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
+
 EXP: 1(a)
+
 DATE:
+
 AIM:
 To write a python program to perform stop and wait protocol
 ALGORITHM:
