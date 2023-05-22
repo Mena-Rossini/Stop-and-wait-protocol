@@ -12,8 +12,11 @@ ALGORITHM:
 5. If your frames reach the server it will send ACK signal to client
 otherwise it will sendNACK signal to client.
 6. Stop the program
+
 PROGRAM:
+
 CLIENT:
+
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
