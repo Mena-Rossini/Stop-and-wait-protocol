@@ -2,9 +2,9 @@
 
 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 
-EXP: 1(a)
+EXP: 1
 
-DATE:
+DATE:13.03.23
 
 AIM:
 To write a python program to perform stop and wait protocol
@@ -70,4 +70,5 @@ OUTPUT:
 ![WhatsApp Image 2023-05-22 at 8 12 00 AM](https://github.com/Harsayazheni/Stop-and-wait-protocol/assets/118708467/2b1410b9-5ad0-4fad-ae6a-4ecd23e3e693)
 
 RESULT:
+
 Thus, python program to perform stop and wait protocol was successfully executed.
